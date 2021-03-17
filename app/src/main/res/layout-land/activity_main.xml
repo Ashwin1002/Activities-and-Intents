@@ -37,4 +37,5 @@
         android:text="@string/button_label_count"
         android:textColor="@color/white"
         android:onClick="countUp"/>
+
 </LinearLayout>
